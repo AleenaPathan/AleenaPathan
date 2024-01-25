@@ -1,3 +1,4 @@
+![logo](https://github.com/AleenaPathan/AleenaPathan/blob/main/it%20photo.png)
 <h1 align="center">Hie👋, I'm Aleena !!</h1>
 <h3 align="center">"A passionate Web Developer"</h3>
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
