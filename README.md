@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aleena_pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aleena_pathan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aleena pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleena pathan" height="30" width="40" /></a>
-<a href="https://instagram.com/aleena_pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aleena_pathan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aleena_pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aleena_pathan" height="30" width="40" /></a>
+<a href="https://twitter.com/aleena_pathan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aleena_pathan_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Aleena Pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aleena Pathan" height="30" width="40" /></a>
+<a href="https://instagram.com/aleena_pathan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aleena_pathan_" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aleena_pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aleena_pathan_" height="30" width="40" /></a>
   <a href="https://codepen.io/aleena-pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aleena-pathan" height="30" width="40" /></a>
 </p>
 
