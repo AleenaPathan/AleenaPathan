@@ -19,8 +19,8 @@
 <a href="https://twitter.com/aleena_pathan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aleena_pathan_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aleena-pathan-1a9888262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleena-pathan-1a9888262" height="30" width="40" /></a>
 <a href="https://instagram.com/aleena_pathan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aleena_pathan_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aleena_pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aleena_pathan_" height="30" width="40" /></a>
-  <a href="https://codepen.io/aleena-pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aleena-pathan" height="30" width="40" /></a>
+<a href="https://in.pinterest.com/aleena_pathan_/_created/" target="blank"><img align="center" src="https://imgs.search.brave.com/a83NkaqqDTj3tcAegECcA0_yJbGN7l351PRdOQhRHRo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzLzQxOF9w/aW50ZXJlc3QuanBn" alt="aleena_pathan_" height="30" width="40" /></a>
+<a href="https://codepen.io/aleena-pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aleena-pathan" height="30" width="40" /></a>
 </p>
 
 
